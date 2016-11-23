@@ -1,11 +1,21 @@
 body{
+    background-image: url(tabletop.jpeg);
     background-color: #f8ecc2;
     font-family: "Comic Sans MS", cursive, sans-serif;
-    text-align: center
+    text-align: center;
+    font-size: 4em;
+    color: black;
 }
+
 h1{
-    font-size: 6em;
+    font-size: 3.5em;
+    color: darkkhaki;
 }
-p{
-    text-align: justify;
+
+div{
+    background-image: url(oldpaper.jpg);
+    align-self: center;
+    margin-left: 6%;
+    margin-right: 6%;
+    border: solid saddlebrown 5px;
 }
